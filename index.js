@@ -1,5 +1,7 @@
 const fs = require('fs')
 const inquirer = require('inquirer')
+const {Triangle, Circle, Square} = require('./lib/shapes')
+const SVGGenerator = require('./lib/logo')
 
 function generateLogo() {
     inquirer.prompt([
