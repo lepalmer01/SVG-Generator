@@ -1,5 +1,5 @@
 # SVG Logo Generator
-The SVG Logo Maker is a Node.js command-line application designed for web developers who need a simple and customizable logo for their projects without the need for a graphic designer. 
+The SVG Logo Generator is a Node.js command-line application designed for web developers who need a simple and customizable logo for their projects without the need for a graphic designer. 
 
 ## Table of Contents
 * [Installation](#installation) 
